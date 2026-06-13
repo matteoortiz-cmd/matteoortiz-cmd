@@ -1,30 +1,97 @@
-# Olá, eu sou Matteo 👋
+const matteo = {
+    nome: "Matteo Ortiz",
+    cargo: "Estudante de Desenvolvimento de Sistemas",
+    localização: "Brasil 🇧🇷",
+    
+    linguagens: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "C++",
+        "SQL"
+    ],
 
-💻 Estudante de Desenvolvimento de Sistemas
+    ferramentas: [
+        "Git",
+        "GitHub",
+        "VS Code"
+    ],
 
-## Sobre Mim
-Sou estudante da área de tecnologia com interesse em desenvolvimento web, programação e criação de sistemas.
+    estudando: [
+        "Desenvolvimento Web",
+        "POO",
+        "Banco de Dados",
+        "Engenharia de Software"
+    ],
 
-## 🚀 Tecnologias
-- HTML
-- CSS
-- C++
-- Git
-- GitHub
+    objetivo: "Me tornar um Desenvolvedor Full Stack"
+};
+💻 Tech Stack
+�
 
-## 📂 Projetos
-- Página de Venda de Carros
-- Sistema de Pedidos
-- Exercícios em C++
-- 
+�
+￼
+�
 
-## 📚 Objetivos
-Aprimorar minhas habilidades em desenvolvimento de software e construir projetos para meu portfólio profissional.
-📫 Contato
+📊 Estatísticas GitHub
+�
 
-📧 Disponível para contato através das minhas redes profissionais:
+�
+￼
+�
+￼
+�
 
-- GitHub: github.com/matteoortiz-cmd
-- LinkedIn: linkedin.com/in/matteo-ortiz-184b933b6
+🔥 Sequência de Contribuições
+�
 
-Obrigado por visitar meu perfil!
+�
+￼
+�
+
+📚 Atualmente Estudando
+🌐 Desenvolvimento Web
+🧩 Programação Orientada a Objetos
+🏗 Engenharia de Software
+🗄 Banco de Dados
+🔄 Git e GitHub
+📂 Projetos
+🚗 Sistema de Venda de Veículos
+Site desenvolvido com HTML e CSS simulando uma plataforma de venda de automóveis.
+🍔 Sistema de Delivery
+Protótipo inspirado em aplicativos de entrega contendo áreas para:
+Cliente
+Vendedor
+Administrador
+💻 Exercícios de Programação
+Projetos e desafios desenvolvidos em C++ focados em:
+Lógica de Programação
+Estruturas de Dados
+Algoritmos
+🎯 Objetivos
+[✓] Evoluir como Desenvolvedor Full Stack
+[✓] Aprender novas tecnologias
+[✓] Participar de projetos colaborativos
+[✓] Construir um portfólio profissional
+[✓] Conseguir minha primeira oportunidade na área
+📈 Perfil Profissional
+🧠 Aprendizado Contínuo
+🤝 Trabalho em Equipe
+💡 Resolução de Problemas
+⚡ Proatividade
+🎯 Foco em Resultados
+📚 Curiosidade Tecnológica
+🌎 Conecte-se Comigo
+�
+
+�
+￼ 
+�
+￼ 
+�
+
+�
+
+⭐ "Transformando conhecimento em código."
+�
+￼
